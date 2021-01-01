@@ -1,6 +1,6 @@
 <img src="./GitHub_Header.gif">
 
-![100 Days of Code Round 1](https://img.shields.io/static/v1?label=100%20Days%20of%20Code&message=R1D31&color=DA467D)
+![100 Days of Code Round 1](https://img.shields.io/static/v1?label=100%20Days%20of%20Code&message=R1D34&color=DA467D)
 <!-- Source for the badges: https://shields.io/#your-badge -->
 
 
