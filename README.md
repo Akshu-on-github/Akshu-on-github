@@ -13,7 +13,7 @@
 - fCC's Responsive Web Development Course
 
 ### 💬 OpenSource Communities:
-- [EddieHub](https://github.com/EddieJaoudeCommunity)
+- [EddieHub](https://github.com/EddieHubCommunity)
 - [freeCodeCamp](https://github.com/freeCodeCamp)
 
 ### 📛 My Badges:
