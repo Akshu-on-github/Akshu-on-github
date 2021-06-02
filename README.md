@@ -6,7 +6,7 @@
 
 ### 🌱 Currently Learning:
 - Data Structures and Algorithms
-- Github Actions
+- GitHub Actions
 
 ### 🍃 Current Projects:
 - N Days of X (Discord Bot that customizes your 100 Days of Code experience)
@@ -14,11 +14,16 @@
 
 ### ✨ OpenSource Communities:
 - [EddieHub](https://github.com/EddieHubCommunity)
-- [freeCodeCamp](https://github.com/freeCodeCamp)
+- Codezilla
+- Devs' Street
 
 ### 💬 My Social Handles
-
-<a href="https://github.com/Akshu-on-github"><img src = "https://img.shields.io/badge/GitHub-Akshu_on_github-blue?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/akshaya-kulasekaran/"><img src = "https://img.shields.io/badge/LinkedIn-Akshaya Kulasekaran-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"></a> <a href="https://twitter.com/Akshu_on_github"><img src = "https://img.shields.io/badge/Twitter-Akshu_on_github-blue?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<!-- YouTube (TBA)
+<a href="https://github.com/Akshu-on-github"><img src = "https://img.shields.io/badge/YouTube-Akshu_on_youtube-blue?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+-->
+<!-- Social Handles: LinkedIn, Twitter -->
+<a href="https://www.linkedin.com/in/akshaya-kulasekaran/"><img src = "https://img.shields.io/badge/LinkedIn-Akshaya Kulasekaran-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+<a href="https://twitter.com/Akshu_on_github"><img src = "https://img.shields.io/badge/Twitter-Akshu_on_github-blue?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 ### 📛 My Badges:
 <img src="https://user-images.githubusercontent.com/61582763/101490318-2e4bff00-3988-11eb-9584-2e3694562c4c.png" height="50px" alt="My first Hacktoberfest (2020)">
