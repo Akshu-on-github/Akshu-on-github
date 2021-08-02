@@ -6,6 +6,8 @@
 </p>
 <!-- Source for the Github Stats Card: https://github.com/anuraghazra/github-readme-stats -->
 
+<img src = "https://user-images.githubusercontent.com/61582763/127859433-95b168a5-34c1-4003-a222-50ceea492944.png" align = "right" alt="waving_hello" width=30%>
+
 ### 🌱 Currently Learning:
 - Internet of Things
 - Artificial Intelligence
