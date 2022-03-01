@@ -1,20 +1,21 @@
 <img src="https://user-images.githubusercontent.com/61582763/123809902-9e63a780-d90f-11eb-866a-1aab712d7de2.gif" width=100% alt="Banner Image">
+
 <!-- Icon info:
 Creator: Gregor Cresnar
 Colours used: #AE16B3 #426699 
 -->
-
 <p align = "center"> 
-<a href = "https://twitter.com/Akshu_on_github">
-<img src="https://user-images.githubusercontent.com/61582763/135242590-813d0136-38b8-4ff9-8e9d-2a07d8a90596.png" alt = "Twitter Icon">
-</a>
-<a href = "https://www.linkedin.com/in/akshaya-kulasekaran/">
-<img src="https://user-images.githubusercontent.com/61582763/135242596-9d7f796a-faa9-47fe-b0cb-2cfc04432def.png" alt = "LinkedIn Icon">
-</a>
-  
+  <a href = "https://twitter.com/Akshu_on_github">
+    <img src="https://user-images.githubusercontent.com/61582763/135242590-813d0136-38b8-4ff9-8e9d-2a07d8a90596.png" alt = "Twitter Icon">
+  </a>
+  <a href = "https://www.linkedin.com/in/akshaya-kulasekaran/">
+    <img src="https://user-images.githubusercontent.com/61582763/135242596-9d7f796a-faa9-47fe-b0cb-2cfc04432def.png" alt = "LinkedIn Icon">
+  </a>
 </p>
 
-<img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "right" alt="my_octocat" width=45%>
+<br>
+
+<img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "right" alt="my_octocat" width=450px>
 
 ### 🌱 Currently Learning:
 - Internet of Things (IoT)
@@ -27,20 +28,20 @@ Colours used: #AE16B3 #426699
 - Smart Flood Early Warning System (FLEWS)
 
 ### ✨ OpenSource Communities:
-- [EddieHub](https://github.com/EddieHubCommunity)
-- [nhcommunity](https://github.com/nhcommunity)
-- [freeCodeCamp](https://github.com/freeCodeCamp)
+- [GitHub Campus Experts](https://github.com/campus-experts), a community for student leaders in tech
+- [EddieHub](https://github.com/EddieHubCommunity), an international inclusive open source community
+- [Codezilla](https://github.com/Codezilla-Club), a student community and college club
+- [freeCodeCamp](https://github.com/freeCodeCamp), an international forum to make learning accessible to all
+- [nhcommunity](https://github.com/nhcommunity), a safe space to explore code
 
 <br><br>
 
-<!-- Badges to be Added
-<p align="center">
-<img src="https://user-images.githubusercontent.com/61582763/101490318-2e4bff00-3988-11eb-9584-2e3694562c4c.png" height="75px" alt="My first Hacktoberfest (2020)">
-</p>
--->
-
 <p align = "center">
-<a href="https://github.com/Akshu-on-github"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Akshu-on-github&show_icons=true&hide=stars&theme=radical"></a>
-<a href="https://github.com/Akshu-on-github"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshu-on-github&layout=compact&theme=radical&card_width=250"></a>
+  <a href="https://github.com/Akshu-on-github">
+    <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Akshu-on-github&show_icons=true&hide=stars&theme=radical">
+  </a>
+  <a href="https://github.com/Akshu-on-github">
+    <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshu-on-github&layout=compact&theme=radical&card_width=250">
+  </a>
 </p>
 <!-- Source for the Github Stats Card: https://github.com/anuraghazra/github-readme-stats -->
