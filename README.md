@@ -1,19 +1,22 @@
-<img src="https://user-images.githubusercontent.com/61582763/123809902-9e63a780-d90f-11eb-866a-1aab712d7de2.gif" width=100% alt="Banner Image">
+<img src="https://user-images.githubusercontent.com/61582763/195144968-ce4e68fc-39d4-4f1c-856b-2709b7068ba6.gif" width=100% alt="Banner Image">
 
-<!-- Icon info:
-Creator: Gregor Cresnar
-Colours used: #AE16B3 #426699 
--->
 <p align = "center"> 
   <a href = "https://twitter.com/Akshu_on_github">
-    <img src="https://user-images.githubusercontent.com/61582763/135242590-813d0136-38b8-4ff9-8e9d-2a07d8a90596.png" alt = "Twitter Icon">
+    <img src="https://user-images.githubusercontent.com/61582763/195151346-677c8197-2950-4b50-a0cd-af7d84c812a9.png" alt = "Twitter Icon">
   </a>
+  
   <a href = "https://www.linkedin.com/in/akshaya-kulasekaran/">
-    <img src="https://user-images.githubusercontent.com/61582763/135242596-9d7f796a-faa9-47fe-b0cb-2cfc04432def.png" alt = "LinkedIn Icon">
+    <img src="https://user-images.githubusercontent.com/61582763/195151461-61e11fc9-6bbc-4ef5-939a-a75126302a94.png" alt = "LinkedIn Icon">
+  </a>
+<!--   WIP
+  <a href = "https://www.youtube.com/channel/UCEj5wrxo9RLmYLxR9cqcSjg">
+    <img src="https://user-images.githubusercontent.com/61582763/195150275-6c3d5420-cf2f-4bb9-8a19-7a323f8d0c40.png" alt = "YouTube Icon">
+  </a> -->
+  
+  <a href = "https://akshu-on-github.medium.com/">
+    <img src="https://user-images.githubusercontent.com/61582763/195158907-035ce28e-ed6f-49cc-a234-8a951e9b0f9c.png" alt = "Medium Icon" width=64px>
   </a>
 </p>
-
-<br>
 
 <img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "right" alt="my_octocat" width=450px>
 
@@ -34,7 +37,7 @@ Colours used: #AE16B3 #426699
 - [freeCodeCamp](https://github.com/freeCodeCamp), an international forum to make learning accessible to all
 - [nhcommunity](https://github.com/nhcommunity), a safe space to explore code
 
-<br><br>
+<br>
 
 <p align = "center">
   <a href="https://github.com/Akshu-on-github">
@@ -44,4 +47,15 @@ Colours used: #AE16B3 #426699
     <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshu-on-github&layout=compact&theme=radical&card_width=250">
   </a>
 </p>
-<!-- Source for the Github Stats Card: https://github.com/anuraghazra/github-readme-stats -->
+
+<!-- ATTRIBUTIONS -->
+<!--
+ICONS:
+Twitter Logo Attribution: Twitter icons created by Hight Quality Icons - Flaticon
+LinkedIn Logo Attribution: Linkedin icons created by Hight Quality Icons - Flaticon
+YouTube Logo Attribution: Youtube icons created by Hight Quality Icons - Flaticon
+Colours used: #a7045a #470151 
+
+STATS CARDS:
+Attribution: https://github.com/anuraghazra/github-readme-stats
+-->
