@@ -14,7 +14,7 @@
   </a> -->
   
   <a href = "https://akshu-on-github.medium.com/">
-    <img src="https://user-images.githubusercontent.com/61582763/195158907-035ce28e-ed6f-49cc-a234-8a951e9b0f9c.png" alt = "Medium Icon" width=64px>
+    <img src="https://user-images.githubusercontent.com/61582763/195259844-5fc8775f-2f4a-40cd-ba25-9ad39a4faaa4.png" alt = "Medium Icon" width=64px>
   </a>
 </p>
 
@@ -86,13 +86,17 @@
   </a>
 </p>
 
-<!-- ATTRIBUTIONS -->
+<!-- INFO & ATTRIBUTIONS -->
 <!--
 ICONS:
 Twitter Logo Attribution: Twitter icons created by Hight Quality Icons - Flaticon
 LinkedIn Logo Attribution: Linkedin icons created by Hight Quality Icons - Flaticon
 YouTube Logo Attribution: Youtube icons created by Hight Quality Icons - Flaticon
-Colours used: #a7045a #470151 
+Medium Logo Attribution: Created by me, inspired by Hight Quality Icons
+Colours used: #a7045a #470151
+
+TECH STACK BADGES:
+Attribution: https://github.com/Ileriayo/markdown-badges
 
 STATS CARDS:
 Attribution: https://github.com/anuraghazra/github-readme-stats
