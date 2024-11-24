@@ -1,9 +1,7 @@
 <!-- INFO & ATTRIBUTIONS
 
 ICONS:
-Twitter Logo Attribution: Twitter icons created by Hight Quality Icons - Flaticon
-LinkedIn Logo Attribution: Linkedin icons created by Hight Quality Icons - Flaticon
-YouTube Logo Attribution: Youtube icons created by Hight Quality Icons - Flaticon
+Twitter, LinkedIn, YouTube Logo Attribution: Icons created by Hight Quality Icons - Flaticon
 Medium Logo Attribution: Created by me, inspired by Hight Quality Icons
 Colours used: #a7045a #470151
 
@@ -18,42 +16,42 @@ Attribution: https://github.com/anuraghazra/github-readme-stats
 
 <p align = "center"> 
   <a href = "https://twitter.com/Akshu_on_github">
-    <img src="https://user-images.githubusercontent.com/61582763/195151346-677c8197-2950-4b50-a0cd-af7d84c812a9.png" alt = "Twitter Icon">
+    <img src="https://user-images.githubusercontent.com/61582763/195151346-677c8197-2950-4b50-a0cd-af7d84c812a9.png" alt = "Twitter Icon" width=52px>
   </a>
   
   <a href = "https://www.linkedin.com/in/akshaya-kulasekaran/">
-    <img src="https://user-images.githubusercontent.com/61582763/195151461-61e11fc9-6bbc-4ef5-939a-a75126302a94.png" alt = "LinkedIn Icon">
+    <img src="https://user-images.githubusercontent.com/61582763/195151461-61e11fc9-6bbc-4ef5-939a-a75126302a94.png" alt = "LinkedIn Icon" width=52px>
   </a>
-<!--   WIP
-  <a href = "https://www.youtube.com/channel/UCEj5wrxo9RLmYLxR9cqcSjg">
+<!--   WIP -->
+<!--   <a href = "https://www.youtube.com/channel/UCEj5wrxo9RLmYLxR9cqcSjg">
     <img src="https://user-images.githubusercontent.com/61582763/195150275-6c3d5420-cf2f-4bb9-8a19-7a323f8d0c40.png" alt = "YouTube Icon">
   </a> -->
   
   <a href = "https://akshu-on-github.medium.com/">
-    <img src="https://user-images.githubusercontent.com/61582763/195259844-5fc8775f-2f4a-40cd-ba25-9ad39a4faaa4.png" alt = "Medium Icon" width=64px>
+    <img src="https://user-images.githubusercontent.com/61582763/195259844-5fc8775f-2f4a-40cd-ba25-9ad39a4faaa4.png" alt = "Medium Icon" width=52px>
   </a>
 </p>
 
-<img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "right" alt="my_octocat" width=475px>
+<img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "right" alt="my_octocat" width=45%>
 
 <br>
 
-### ✨ Side Projects I'm Working On:
+### 🛠️ Side Projects I'm Working On:
 - Hoodunnit? (Started out as a JS13k submission)
 - If this goes down, so does the Internet (Video series)
 - My Portfolio (I'll get to it one day!!)
 
-### 🌱 Personal Interests:
-- Machine Learning (ML)
+### ✨ Personal Interests:
 - Internet of Things (IoT)
 - Quantum Computing (IBM)
+- Machine Learning (ML)
 
-### 🍃 Older Academic Projects:
+### 🏫 Prev Academic Projects:
 - Subjective Answer Analysis
 - Smart Waste Management System
 - Smart Flood Early Warning System
 
-<br><br>
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -76,7 +74,6 @@ Attribution: https://github.com/anuraghazra/github-readme-stats
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
-<br>
 
 <!--
 <p align = "center">
