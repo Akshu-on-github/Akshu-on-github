@@ -36,29 +36,31 @@ Attribution: https://github.com/anuraghazra/github-readme-stats
 
 <br>
 
-### 🛠️ Side Projects I'm Working On:
-- Hoodunnit? (Started out as a JS13k submission)
-- If this goes down, so does the Internet (Video series)
-- My Portfolio (I'll get to it one day!!)
+### Side Projects:
+🦉 Hoodunnit? (Started out as a JS13k submission)<br>
+⛑️ If this goes down, so does the Internet (Video series)<br>
+💼 My Portfolio (I'll finish it one day!!)<br>
 
-### ✨ Personal Interests:
-- Internet of Things (IoT)
-- Quantum Computing (IBM)
-- Machine Learning (ML)
+### Tech Interests:
+🕸️ Internet of Things (IoT)<br>
+🐈‍⬛ Quantum Computing (IBM)<br>
+🤖 Machine Learning (ML)<br>
 
-### 🏫 Prev Academic Projects:
-- Subjective Answer Analysis
-- Smart Waste Management System
-- Smart Flood Early Warning System
+### Academic Projects:
+🏫 Subjective Answer Analysis<br>
+🏙️ Smart Waste Management System<br>
+🌊 Smart Flood Early Warning System<br>
 
 <br>
 <p align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
@@ -70,6 +72,8 @@ Attribution: https://github.com/anuraghazra/github-readme-stats
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white">
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
